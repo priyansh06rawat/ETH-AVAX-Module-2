@@ -1,6 +1,10 @@
 # ETH-AVAX-Module-2
 # Function Frontend
    Create a simple contract with 2-3 functions. Then show the values of those functions in frontend of the application.
+   
+   This project illustrates the development of a straightforward ATM utilizing React and Ethereum blockchain technology. 
+   
+   It allows users to connect their MetaMask wallets, check their account balance, deposit, withdraw and Transfer funds and See the transaction history of all the transactions done.
 ## Starter Next/Hardhat Project
 After cloning the github, you will want to do the following to get the code running on your computer.
 
