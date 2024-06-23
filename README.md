@@ -9,3 +9,8 @@ After cloning the github, you will want to do the following to get the code runn
 5) Back in the first terminal, type npm run dev to launch the front-end.
    
 After this, the project will be running on your localhost. Typically at http://localhost:3000/
+
+# Author
+Priyansh [@priyansh06rawat](https://github.com/priyansh06rawat)
+# License
+This project is licensed under the MIT license - see the license.md file for more details.
