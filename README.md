@@ -1,4 +1,6 @@
 # ETH-AVAX-Module-2
+# Function Frontend
+   Create a simple contract with 2-3 functions. Then show the values of those functions in frontend of the application.
 ## Starter Next/Hardhat Project
 After cloning the github, you will want to do the following to get the code running on your computer.
 
